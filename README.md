@@ -7,7 +7,7 @@ This repository is a place to share my code and notebooks for numerous **data sc
 Softwares/Tools used:
 
 Python3 | 
-MySQL Workbench
+MySQL Workbench | 
 MS SQL Server |
 Power Bi Desktop | 
 SQL Server Management Studio | 

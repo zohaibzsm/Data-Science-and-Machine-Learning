@@ -1,14 +1,17 @@
 # Data-Analysis
-All data analysis-related projects are in this repo.
+All **data analysis** projects are in this repo.
 
-Data Analysis Projects Using Python, SQL, and Excel.
-This repository is a place to share my code and notebooks for numerous data science projects.
+Data Analysis Projects Using _Python, SQL, DAX, Excel, and Power Bi._
+This repository is a place to share my code and notebooks for numerous **data science** projects.
 
-Software used:
+Softwares/Tools used:
 
 Python3 | 
-MS SQL Server
-SQL Server Management Studio
-Visual Studio Code
-IPython environment and Jupyter notebooks
-Anaconda
+MySQL Workbench
+MS SQL Server |
+Power Bi Desktop | 
+SQL Server Management Studio | 
+Visual Studio Code | 
+PyCharm | 
+IPython environment and Jupyter notebooks | 
+Anaconda 

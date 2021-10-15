@@ -6,8 +6,8 @@ This repository is a place to share my code and notebooks for numerous data scie
 
 Software used:
 
-Python3
-SQL Server
+Python3 | 
+MS SQL Server
 SQL Server Management Studio
 Visual Studio Code
 IPython environment and Jupyter notebooks

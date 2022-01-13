@@ -29,6 +29,15 @@ WHERE order_date BETWEEN '2020-01-01' AND '2020-03-31';`
 FROM transactions
 WHERE order_date BETWEEN '2019-12-01' AND '2019-12-31';`
 > 
+>> Top 5 Customers By Revenue  
+>> `SELECT tr.customer_code, c.custmer_name, SUM(tr.sales_amount) AS Total_Amount
+FROM customers AS c
+JOIN transactions AS tr
+ON tr.customer_code = c.customer_code
+GROUP BY tr.customer_code
+ORDER BY Total_Amount DESC
+LIMIT 5;`
+> 
 >> Top 3 Sales In 2020  
 >> `SELECT product_code, sales_amount
 FROM transactions

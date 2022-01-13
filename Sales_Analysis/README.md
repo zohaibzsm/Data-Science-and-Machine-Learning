@@ -1,7 +1,7 @@
 ## Data Analysis using SQL and Power Bi
 
 > ### using SQL:
->> distinct products sold in mumbai
+>> distinct products sold in mumbai **ENTER**
 >> total sales for mumbai for in 2020 and 2019
 >> total revenue in 2020
 >> first 3 months revenue in 2020

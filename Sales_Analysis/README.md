@@ -1,9 +1,6 @@
 ## Data Analysis using SQL and Power Bi
 
 > ### using SQL:
-> DLSJH
-> LKJ
-
 >> distinct products sold in mumbai
 >> total sales for mumbai for in 2020 and 2019
 >> total revenue in 2020

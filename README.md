@@ -1,8 +1,8 @@
 # Data-Analysis
-All **data analysis** projects are in this repo.
+All **Data Analysis** projects are in this repo.
 
 Data Analysis Projects Using _Python, SQL, DAX, Excel, and Power Bi._
-This repository is a place to share my code and notebooks for numerous **data science** projects.
+This repository is a place to share my code and notebooks for numerous **Data Science** projects.
 
 Softwares/Tools used:
 

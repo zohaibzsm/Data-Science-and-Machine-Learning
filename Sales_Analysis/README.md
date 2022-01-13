@@ -49,7 +49,6 @@ ORDER BY Total_Amount DESC
 LIMIT 5;`  
 >> 
 >> ![git_top 5 customers by revenue](https://user-images.githubusercontent.com/90182043/149303867-104cc34a-0300-4eb2-b3f0-874e1665fa47.PNG)
-
 > 
 >> ### Top 3 Sales In 2020  
 >> `SELECT product_code, sales_amount

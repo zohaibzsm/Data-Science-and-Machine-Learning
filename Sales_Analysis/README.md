@@ -1,6 +1,6 @@
 # Data Analysis using SQL and Power Bi
 
-> ## Using SQL:
+> ## Using MySQL Workbench:
 >> ### Distinct Products Sold In Mumbai  
 >> `SELECT DISTINCT product_code 
 FROM transactions
@@ -68,8 +68,29 @@ AND order_date BETWEEN '2020-01-01' AND '2020-12-31'
 ORDER BY sales_amount
 LIMIT 3;`
 >> 
->> ![bottom 3 sales in 2020](https://user-images.githubusercontent.com/90182043/149307242-ee187da5-5253-4ea3-aa52-1acaa3307ad4.PNG)
+>> ![bottom 3 sales in 2020](https://user-images.githubusercontent.com/90182043/149307242-ee187da5-5253-4ea3-aa52-1acaa3307ad4.PNG)  
 
-```
-check
-```
+> ## Using Power Bi Desktop:
+>> ### Revenue By Customers  
+>> 
+>> ![revenue by customers](https://user-images.githubusercontent.com/90182043/149308596-28f6249f-a70a-4ea5-8f66-d1233262f853.PNG)
+>
+>> ### Revenue By Market  
+>> 
+>> ![revenue by markets](https://user-images.githubusercontent.com/90182043/149308657-3b786b9c-1190-47ac-989f-657ca18636dd.PNG)
+> 
+>> ### Sales_Quantity By Customers
+>> 
+>>![sales_quantity by customers](https://user-images.githubusercontent.com/90182043/149309204-63331d3b-950f-40b3-8b5c-6e8532078cb3.PNG)
+>
+>> ### Top 5 Customers By Revenue
+>>
+>>![top 5 customers by revenue](https://user-images.githubusercontent.com/90182043/149309234-0631796b-7f1e-4331-a48c-d6451c6256fd.PNG)
+>
+>> ### Top 5 Products By Revenue
+>> 
+>> ![top 5 products by revenue](https://user-images.githubusercontent.com/90182043/149309865-67009cb5-293b-4a91-87bf-62d03bbd2b36.PNG)
+>
+>> ### Revenue Trend
+>> 
+>>![revenue trends](https://user-images.githubusercontent.com/90182043/149309894-52928b6e-390b-4bb5-aa44-e94ee12c81ae.PNG)

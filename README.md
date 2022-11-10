@@ -16,4 +16,3 @@ PyCharm |
 IPython environment and Jupyter notebooks | 
 Anaconda 
 
-### Note: Please check README file for specific details.

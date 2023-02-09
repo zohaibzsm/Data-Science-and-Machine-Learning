@@ -1,6 +1,11 @@
 # Data Analysis using SQL and Power Bi
 
-> ## Using MySQL Workbench:
+Database: `MySQL Workbench`  
+Programming Language: `SQL`  
+Visualization Tool: `Power BI`  
+<br />
+
+> ## Using MySQL Workbench
 >> ### Distinct Products Sold In Mumbai  
 >> `SELECT DISTINCT product_code 
 FROM transactions
@@ -8,7 +13,7 @@ WHERE market_code = 'Mark002'
 AND sales_amount NOT BETWEEN -1 AND 0;`
 >> 
 >> ![distinct products sold in mumbai](https://user-images.githubusercontent.com/90182043/149306581-75e63001-842d-4806-843e-964859dac4c6.PNG)
-> 
+>
 >> ### Total Sales For Mumbai For In 2020 and 2019  
 >> `SELECT SUM(sales_amount) AS 'Total Sales'
 FROM transactions
@@ -69,6 +74,7 @@ ORDER BY sales_amount
 LIMIT 3;`
 >> 
 >> ![bottom 3 sales in 2020](https://user-images.githubusercontent.com/90182043/149307242-ee187da5-5253-4ea3-aa52-1acaa3307ad4.PNG)  
+<br />
 
 > ## Using Power Bi Desktop:
 >> ### Revenue By Customers  
@@ -94,3 +100,8 @@ LIMIT 3;`
 >> ### Revenue Trend
 >> 
 >>![revenue trends](https://user-images.githubusercontent.com/90182043/149309894-52928b6e-390b-4bb5-aa44-e94ee12c81ae.PNG)
+
+<br/>
+
+If you have any query, please reach out to me on LinkedIn.  
+LinkedIn: https://www.linkedin.com/in/zohaib-sheraz-mughal-08b972163/

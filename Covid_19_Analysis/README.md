@@ -21,7 +21,9 @@ Some of the insights are:
 ![](./sql_covid19_data_exploration/4.JPG)
 
 ## Created view to store PercentPopulationVaccinated data
-![](./sql_covid19_data_exploration/5.JPG)  
+![](./sql_covid19_data_exploration/5.JPG)
+
+<br/>
 
 If you have any query, please reach out to me on LinkedIn.  
 LinkedIn: https://www.linkedin.com/in/zohaib-sheraz-mughal-08b972163/

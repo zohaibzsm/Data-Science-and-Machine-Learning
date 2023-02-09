@@ -3,7 +3,12 @@
 Database: `MySQL Workbench`  
 Programming Language: `SQL`  
 Visualization Tool: `Power BI`  
+## Goal:
+The project is to help a computer hardware business AtliQ Technologies which is facing issues in dynamically changing market. This project yields a Power BI dashboard where the sales of the firm could be tracked, highlight the revenue trend, the potential markets, and the markets are getting out of the business. Finally, Sales director may take a look at the dashboard and make the decision that are gonnna helpful in the long run for the company.
+
 <br />
+
+## Analysis:
 
 > ## Using MySQL Workbench
 >> ### Distinct Products Sold In Mumbai  
@@ -75,6 +80,8 @@ LIMIT 3;`
 >> 
 >> ![bottom 3 sales in 2020](https://user-images.githubusercontent.com/90182043/149307242-ee187da5-5253-4ea3-aa52-1acaa3307ad4.PNG)  
 <br />
+
+## Final Outcome:
 
 > ## Using Power Bi Desktop:
 >> ### Revenue By Customers  

@@ -1,6 +1,6 @@
 # **EDA Analysis of Hotel Bookings**
 
-Software: `Jupyter Notebook`
+Software: `Jupyter Notebook`  
 Programming Language: `Python`  
 Python Libraries:`Pandas`, `Matplotlib`, `Seaborn`
 

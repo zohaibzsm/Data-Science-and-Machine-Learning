@@ -1,8 +1,7 @@
 # **EDA Analysis of Hotel Bookings**
 
-Software: `Jupyter Notebook`  
-Database: `MS SQL SERVER`  
-Programming Language: `Python`
+Software: `Jupyter Notebook`
+Programming Language: `Python`  
 Python Libraries:`Pandas`, `Matplotlib`, `Seaborn`
 
 Dataset link: https://www.kaggle.com/datasets/mojtaba142/hotel-booking

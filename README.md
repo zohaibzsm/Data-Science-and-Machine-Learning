@@ -1,4 +1,4 @@
-This repository is a place to share my code and notebooks for numerous **Data Science and Analytics** projects.  
+This repository is a place to share my code and notebooks for numerous **Data Science, Analytics, and Machine Learning** projects/learnings.  
 
 You may look at:  
 --> [Sales Analysis](https://github.com/zohaibzsm/Data-Analysis/tree/main/Sales_Analysis)  

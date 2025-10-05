@@ -6,21 +6,17 @@ You may look at:
 --> [HR Analytics](https://github.com/zohaibzsm/Data-Analysis/tree/main/HR%20Data%20Analysis)  
 
 **Skills**:  
-  Data Analysis  
+  Data Engineering and Analysis(EDA)  
+  Machine/Deep Learning(AI)  
   Data Visualization  
-  Model Building  
-  Machine Learning Algorithms  
-  Model Evaluation and Deployment  
+  Model Building, Evaluation, and Deployment  
   Interactive Dashboards  
   
-**Softwares/Tools**:  
+**Software/Tools**:  
   Python3 (numpy, pandas, matplotlib, seaborn, plotly, sklearn)  
   SQL  
-  Excel    
-  MySQL Workbench  
-  Power Bi    
-  Visual Studio Code  
-  PyCharm  
-  Jupyter notebooks  
-  Anaconda 
+  Microsoft Azure  
+  Informatica  
+  Power Bi     
+  Oracle APEX
 

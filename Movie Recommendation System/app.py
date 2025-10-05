@@ -8,7 +8,7 @@ def fetch_poster(movie_id):
     url = f"https://api.themoviedb.org/3/movie/{movie_id}/images".format(movie_id)
     headers = {
         "accept": "application/json",
-        "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzMzgwMjg5ZTZiMGQwNjQ0ZWRlN2Q4MmJkNDI0NDc4ZCIsIm5iZiI6MTc1Mjc1NDQzMy4xMjgsInN1YiI6IjY4NzhlOTAxZjQxYjM3OTIzNDA2MjViNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.N8vs5OGftwoCsnQV6s6CfRK1hi9nLu81L_SSL0mAm8w"
+        "Authorization": "TMDB API_KEY"
     }
     response = requests.get(url, headers=headers)
     image_url = ''
@@ -61,5 +61,6 @@ if st.button('Recommend'):
         with val:
             st.write(recommended_movies[i])
             st.image(recommended_movie_poster[i])
+
 
 

@@ -7,7 +7,7 @@ Python Libraries:`Pandas`, `Matplotlib`, `Seaborn`
 Dataset link: https://www.kaggle.com/datasets/mojtaba142/hotel-booking
 <br/>
 # **Goal:**
-The objective of this project is to analyze the Demand of `Hotel Booking` using the given dataset and gather findings that are presentable to the Stakeholders in order to make(suggest) the improvements(`data-driven decisions`) in their `Hotel Management`. Technically, `Exploratory Data Analysis`, commonly called `EDA`, is performed in this Notebook using `Python` libraries.
+The objective of this project is to analyze the Demand of `Hotel Booking` using the given dataset and gather findings that are presentable to the Stakeholders in order to make(suggest) the improvements(`data-driven decisions`) in their `Hotel Management`. In Data Science world, `Exploratory Data Analysis`, commonly called `EDA`, is performed in this Notebook using `Python` libraries.
 
 For detailed information, please check my notebook here or on `Kaggle`, and please do `Upvote` it if it seems useful to you.
 <br/>

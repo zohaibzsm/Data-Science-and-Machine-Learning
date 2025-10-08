@@ -1,4 +1,4 @@
-# **EDA Analysis of Hotel Bookings**
+# **Exploratory Data Analysis of Hotel Bookings**
 
 Software: `Jupyter Notebook`  
 Programming Language: `Python`  

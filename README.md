@@ -1,9 +1,9 @@
 This repository is a place to share my code and notebooks for numerous **Data Science, Analytics, and Machine Learning** projects/learnings.  
 
-You may look at:  
---> [Sales Analysis](https://github.com/zohaibzsm/Data-Analysis/tree/main/Sales_Analysis)  
---> [Covid_19 Analysis](https://github.com/zohaibzsm/Data-Analysis/tree/main/Covid_19_Analysis)  
---> [HR Analytics](https://github.com/zohaibzsm/Data-Analysis/tree/main/HR%20Data%20Analysis)  
+Recent Projects:  
+--> [Movie Recommendation System](https://github.com/zohaibzsm/Data-Science-and-Machine-Learning/tree/main/Movie%20Recommendation%20System)  
+--> [Exploratory Data Analysis Hotel Bookings](https://github.com/zohaibzsm/Data-Science-and-Machine-Learning/tree/main/EDA%20of%20Hotel%20Booking%20Demand%20from%20Kaggle)  
+--> [Covid_19 Analysis](https://github.com/zohaibzsm/Data-Science-and-Machine-Learning/tree/main/Covid_19_Analysis)  
 
 **Skills**:  
   Data Engineering and Analysis(EDA)  
